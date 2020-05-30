@@ -26,3 +26,7 @@ Optional:
 
 ## Author
 Grace May - SI OCIO Data Science Intern (August 2019 - May 2020)
+
+### Acknowledgements
+* Thank you to Dr. Rebecca Dikow and the SI OCIO Data Science Lab for this opportunity. 
+* My hope is that these scripts will a small first step to recognize the contribution of women in the STEM/STEAM fields based on the wealth of information available in these SI Annual Reports.
